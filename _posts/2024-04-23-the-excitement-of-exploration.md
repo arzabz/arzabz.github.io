@@ -1,6 +1,6 @@
 ---
-title: the excitement of exploration
-author: arz
+title: "the excitement of exploration"
+author: "arz"
 category: thoughts
 layout: post
 ---

@@ -5,7 +5,7 @@ author: "Pat Dryburgh"
 categories: opinion
 ---
 
-Not all posts need a title.
+Not all nots need an all.
 
 <!-- excerpt_separator -->
 

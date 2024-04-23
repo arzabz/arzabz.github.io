@@ -12,3 +12,21 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: local('IBM Plex Mono'), local('IBMPlexMono'),
+       url('#{$asset_url}/fonts/IBMPlexMono-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: local('Archivo Regular'), local('Archivo-Regular'),
+       url('#{$asset_url}/fonts/Archivo-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}

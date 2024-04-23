@@ -3,6 +3,7 @@ title: "the excitement of exploration"
 author: "arz"
 category: thoughts
 layout: post
+published: true
 ---
 
 it's so, too easy to overlook the vast expand world that we live in now, it's just incomprehendable to perceive it all even though it's right in front of us.

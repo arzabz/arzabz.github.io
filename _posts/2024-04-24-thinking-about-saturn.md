@@ -8,9 +8,7 @@ published: true
 
 ever since i took part in an astronomy olympiad, i've been consuming a good amount of space media, especially the videos made by astrum on youtube, their work is great.
 
-one of the thing that has been sitting in my brain is how close we've gotten to every planet in our solar system, along with its satellite(s), and even some objects beyond that point.
-
-{{ page.excerpt }}
+one of the thing that has been sitting in my brain is how close we've gotten to every planet in our solar system, along with its satellite(s), and even some objects beyond that point.  
 
 cassini is one of my favorite probe out of all the others, for the amount of visuals that it has sent to earth, and for its crash in saturn's atmosphere, it has been in such great lengths to become saturn' lone inhabitor in the end.
 
@@ -24,9 +22,7 @@ about saturn, a gas giant encircled by its layers of rings, it's just great to l
 </figure>
 
 
-furthermore, the way the light of the sun shines and reflects off saturn's surface (if you could call it that) just showcases its behemoth size and roundness, a cosmically perfectly round object.
-
-{{ page.excerpt }}
+furthermore, the way the light of the sun shines and reflects off saturn's surface (if you could call it that) just showcases its behemoth size and roundness, a cosmically perfectly round object.  
 
 the desolate space is such a wonder for us.
 

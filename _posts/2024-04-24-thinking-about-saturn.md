@@ -12,6 +12,8 @@ one of the thing that has been sitting in my brain is how close we've gotten to 
 
 cassini is one of my favorite probe out of all the others, for the amount of visuals that it has sent to earth, and for its crash in saturn's atmosphere, it has been in such great lengths to become saturn' lone inhabitor in the end.
 
+<!-- excerpt_separator -->
+
 the desolate space is such a wonder for us.
 
 <figure>

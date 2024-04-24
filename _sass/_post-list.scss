@@ -1,5 +1,5 @@
 .post-list {
-  margin: 1em 0;
+  margin: 0em 0;
   list-style: none;
   &:hover,
   &:focus-within {
@@ -10,7 +10,7 @@
 }
 
 .post-list li {
-  margin-bottom: 1em;
+  margin-bottom: 0.5;
 }
 
 .post-link {

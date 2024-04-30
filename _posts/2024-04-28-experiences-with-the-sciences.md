@@ -20,6 +20,13 @@ nowadays, i still have interests in discoveries surround marine life even if i d
 \
 2. physics.\
 \
+the topics that i'm really interested in this field is alternative energy, engineering, and architecture.\
+\
+alternative energy really has the potential to thrive, i'm not just walking about windmills and solar panels, but nuclear reactors as well. there is barely any reason for us to continue using non-sustainable, harmful, and polluting energy resources when the technology is there to develop, i look forward to the next big advancement here.\
+\
+engineering, that's pretty general but i have a particular thing for creating stuff,   
+
+
 
 <figure>
   <img alt="-" src="/assets/images/-" />

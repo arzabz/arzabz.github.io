@@ -18,14 +18,23 @@ if you somehow met me back then, it probably was through biocord where i would r
 \
 nowadays, i still have interests in discoveries surround marine life even if i don't study it formally now. its something that i really can't avoid diving deep into because it's that important to me, i'll probably write something about it next time.\
 \
-2. physics.\
+2. physics\
 \
-the topics that i'm really interested in this field is alternative energy, engineering, and architecture.\
+instead of going over the entire field, i just want to talk about the topics that i'm interested in: alternative energy, and engineering, still thinking of a third one.\
 \
-alternative energy really has the potential to thrive, i'm not just walking about windmills and solar panels, but nuclear reactors as well. there is barely any reason for us to continue using non-sustainable, harmful, and polluting energy resources when the technology is there to develop, i look forward to the next big advancement here.\
+alternative energy really has the potential to thrive, i'm not just walking about windmills and solar panels, but nuclear reactors as well. there is barely any reason for us to continue using non-sustainable, harmful, and polluting energy resources when the technology is there to develop, it's just a very interesting and creative way to extract energy! and that's energy that would benefit an incredibly large amount of people.\
 \
-engineering, that's pretty general but i have a particular thing for creating stuff,   
-
+engineering, that's pretty general but i have a particular attachment for creating stuff. what hooks me in is the art and craftmanship involved in it, the capacity that you dedicate yourself to put in effort into some tangible thing that might benefit yourself or others by means of that process. i see the field as a medium where you can express your inner workings without being too abstract, and that's awesome.\
+\
+if i ever get involved in an engineering field in the future, it'll probably be in environmental engineering, electrical engineering, or anything related to machinery.\
+\
+3. chemistry\
+\
+i never actually had enough time to study this field alone, the few times that i do take interest in it is when it's involved in microbes or physics discussions, a shame really.\
+\
+4. astronomy\
+\
+very cool!
 
 
 <figure>

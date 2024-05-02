@@ -15,17 +15,23 @@ since then i've taken more interest into many more fields, i'll talk about them 
 continuing off from the first paragraph, what really got me into the sciences were studying about fishes! from what i know there are bony fishes (osteoichtyes) which is then subdivided into lobe-finned fish (sarcopterygee, my favorites for just how rare they are now) and ray-finned fish (actinoperygee), and there are also cartilage-boned fishes (chondrichyes) or sharks!
 
 <figure>
-  <img alt="epic shot of a coelacanth" src="/assets/images/coelacanthe.jpg" />
+  <img alt="epic shot of a coelacanth" src="/assets/images/coelacanth.jpg" />
   <figcaption>
     a coelacanth, one of the surviving member of the lobe-finned fish group, an absolute behemoth. (photo by laurent ballesta)
   </figcaption>
-</figure>\
+</figure>
 
 if you somehow met me back then, it probably was through biocord where i would ramble on for hours about marine animals and questions about the origins of life, those times are dear to me.\
 \
 nowadays, i still have interests in discoveries surround marine life even if i don't study it formally now. its something that i really can't avoid diving deep into because it's that important to me, i'll probably write something about it next time.\
 \
-2\. physics
+\
+2\. chemistry
+\
+i never actually had enough time to study this field alone, the few times that i do take interest in it is when it's involved in biological mechanisms or molecular physics discussions, a shame really.\
+\
+\
+3\. physics
 \
 instead of going over the entire field, i just want to talk about the topics that i'm interested in: alternative energy, and engineering, still thinking of a third one.\
 \
@@ -42,21 +48,19 @@ engineering, that's pretty general but i have a particular attachment for creati
 \
 if i ever get involved in an engineering field in the future, it'll probably be in environmental engineering, electrical engineering, or anything related to machinery.\
 \
-3\. chemistry
-\
-i never actually had enough time to study this field alone, the few times that i do take interest in it is when it's involved in biological mechanisms or molecular physics discussions, a shame really.\
 \
 4\. geography
 \
 what i enjoy about this field is discussion about the environment, natural habitats, and tectonic plates! the most intuitive way to learn about the earth and how volatile it is, and mountains are great too.\
+\
 \
 5\. astronomy
 \
 very cool field! i love exploration, and there's nothing tangible that's more expansive than space. for now, i'm just interested in the objects found in the solar system and their corresponding probes, can't wait for nasa to explore the oceans of europa and enceladus in the future.
 
 <figure>
-  <img alt="enceladus blues" src="/assets/images/enceladus.jpg" />
+  <img alt="enceladus moon" src="/assets/images/enceladus18366.png" />
   <figcaption>
-    enceladus, one of the moons of saturn taken from saturn, just the pictur (PIA11133)
+    enceladus, one of the moons of saturn taken from the cassini probe, thought to be habitable because of the ocean beneath its icy crust. (PIA18366)
   </figcaption>
 </figure>

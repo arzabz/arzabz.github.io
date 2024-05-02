@@ -3,7 +3,7 @@ title: experience with the sciences
 author: arz
 category: thoughts
 layout: post
-published: false
+published: true
 ---
 
 science is an amazing thing to exist, it's probably the most natural way for an average man to understand the world. one of my first deliberate exploration into science was way back in 2020, when i learnt about dinosaurs through pbs eons, and then to fishes after learning about the dunkleosteus (the coolest kind of fish to ever exist).\
@@ -61,4 +61,4 @@ very cool field! i love exploration, and there's nothing tangible that's more ex
   <figcaption>
     enceladus, one of the moons of saturn taken from saturn, just the pictur (PIA11133)
   </figcaption>
-</figure>\
+</figure>

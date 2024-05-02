@@ -36,7 +36,7 @@ alternative energy really has the potential to thrive, i'm not just walking abou
   <figcaption>
     the core of a nuclear reactor. the blue glow comes from cherenkov radiation, caused by charged particles going faster than light within that medium (very interesting). (picture from the advanced test reactor)
   </figcaption>
-</figure>\
+</figure>
 
 engineering, that's pretty general but i have a particular attachment for creating stuff. what hooks me in is the art and craftmanship involved in it, the capacity that you dedicate yourself to put in effort into some tangible thing that might benefit yourself or others by means of that process. i see the field as a medium where you can express your inner workings without being too abstract, and that's awesome.\
 \

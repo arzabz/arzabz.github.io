@@ -6,7 +6,7 @@ layout: post
 published: true
 ---
 
-if anyone were to ask me about my dreams and its reoccuring themes, i would have a lot to cover, but yeah that would be a pretty odd thing to ask.\
+&nbsp;&nbsp;&nbsp;&nbsp;if anyone were to ask me about my dreams and its reoccuring themes, i would have a lot to cover, but yeah that would be a pretty odd thing to ask.\
 \
 to dream is like to live your life not knowing that none of it is true. it feels normally long like any other day but so rapid when you look back at it, filled with fallacies but beautifully arranged unlike many other days.\
 \
@@ -26,7 +26,7 @@ dreams sometimes feel 'new' but familiar enough, it tends to be liminal. there a
 <figure>
   <img alt="liminal convenience store" src="/assets/images/liminal.jpg" />
   <figcaption>
-    might be one of the liminal pictures that resonates with me the most, its feels too comfortable just imagining yourself being there. its the vibrant look and the artificial skylights that makes it feel a bit superficial. (image from u/illythekitty)
+    this is one of the pictures that appears in my head whenever i think of liminal space, i don't know how i first reacted to it, but it feels too comfortable to imagine yourself being there. its the vibrant look and the artificial skylights that makes it feel a bit superficial. (image from u/illythekitty)
   </figcaption>
 </figure>
 

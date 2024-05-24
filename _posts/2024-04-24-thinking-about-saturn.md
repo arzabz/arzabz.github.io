@@ -11,7 +11,7 @@ ever since i took part in an astronomy olympiad, i've taken and larger interest 
 one of the things that has been sitting in my mind is how close we've gotten to every planet in the solar system, along with its satellite(s), and even some objects beyond that point.\
 \
 cassini is one of my favorite probe out of all the others, for the amount of visuals that it has sent to earth, and for its dramatic crash towards saturn's atmosphere. it has went through such great lengths to become saturn' lone inhabitor in the end.
-\
+
 <figure>
   <img alt="a sideview of saturn and its rings" src="/assets/images/saturn10497.jpg" />
   <figcaption>

@@ -17,6 +17,5 @@ passion can also be found in work (not necessarily traditional office work), how
   <figcaption>
     a drawing of something, i don't exactly know for what yet but, it's a pretty nice sketch
   </figcaption>
-</figure>
-
+</figure>\
 i'll keep on improving my arts, and i've decided that since day one; not particularly in random small sketches, but in the way i express myself. if there is more to me, there's nothing better that i can do other than to realize it.

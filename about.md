@@ -24,7 +24,7 @@ colors: any colors that pair up well together, a bit unsaturated but vibrant (fa
 
 <figure>
   <h5>currently listening to:</h5>
-  <iframe alt="gorillaz - to binge" src="https://www.youtube.com/watch?v=LMnrFiG8FRo"></iframe>
+  <iframe alt="gorillaz - to binge" src="https://www.youtube.com/embed/LMnrFiG8FRo?autoplay=1&mute=1"></iframe>
 </figure>
 
 ---

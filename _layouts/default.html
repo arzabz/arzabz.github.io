@@ -20,7 +20,15 @@
 
   </head>
   <body>
-
+    
+    <style>
+      body {
+      cursor: url(/assets/images/cursory.png), default;
+      }
+      a:hover {
+        cursor: url(/assets/images/cursoryh.png), auto;
+      }
+    </style>
     <!--{% if page.layout == 'home' %}
       <a href="#main" class="skip-navigation">
         Skip to list of posts
@@ -40,7 +48,9 @@
 
     {% unless site.hide_credits %}
       <aside class="site-credits">
-          <h7><a href="https://github.com/patdryburgh/hitchens">hitchens theme</a> powered by <a href="http://jekyllrb.com">jekyll</a></h7>
+          <h7>
+            credits: <br>
+            <a href="https://github.com/patdryburgh/hitchens">hitchens theme</a> powered by <a href="http://jekyllrb.com">jekyll</a></h7>
       </aside>
     {% endunless %}
 

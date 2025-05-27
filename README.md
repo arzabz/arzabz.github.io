@@ -1,7 +1,8 @@
----
-layout: page
-title: "Hitchens"
----
+# blog
+
+hi welcome to my blog, it's the place where i blog all over the web and welcome people to my blog, thank you.
+
+## hitchens (the awesome template i used)
 
 An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
 

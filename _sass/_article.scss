@@ -1,5 +1,5 @@
 .post {
-  background: #453F78;
+  background: #003161;
   margin: 3em auto;
   max-width: 48rem;
   padding: 2em 0;
@@ -35,6 +35,7 @@
 
 .post a:hover {
   background: $highlight;
+  cursor: url(/assets/images/cursoryh.png), auto;
 }
 
 .post dl,

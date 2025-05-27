@@ -36,7 +36,9 @@
 
 .post-link__heading {
   display: block;
-  margin-right: 4em;
+  margin-right: 1em;
+  margin-left: auto;
+  text-align: right;
   @media (min-width: $on-tablet) {
     padding: .25em 0;
   }

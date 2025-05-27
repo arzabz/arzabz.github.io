@@ -7,8 +7,8 @@ body {
 }
 
 h1 {
-  font-size: 3em;
-  margin: .5em auto;
+  font-size: 2em;
+  margin: 0 auto;
 }
 
 h2 {
@@ -46,7 +46,8 @@ h6 {
 }
 
 h7 {
-  font-size: .5em;
+  font-size: .7em;
+  opacity: 0.5;
   font-style: italic;
   margin: 2.5em auto;
   text-align: center;
@@ -62,7 +63,7 @@ strong {
 }
 
 a {
-  color: $text-color;
+  color: $muted-text-color;
 }
 
 a:focus {
@@ -133,15 +134,17 @@ figcaption {
 }
 
 .home {
-  max-width: 36em;
-  margin: auto;
-  padding: 7em 1em;
+  max-width: 18em;
+  margin: 2em 1em;
+  padding: 2em 1em;
+  margin-left: auto;
 }
 
 .content-title {
   font-size: 1em;
   margin-bottom: 1em;
-  text-align: center;
+  margin-right: 1em;
+  text-align: right;
 }
 
 .post-date {
@@ -156,10 +159,12 @@ figcaption {
 }
 
 .site-credits {
+  color: $muted-text-color;
   margin: 0 auto 2em;
   margin-top: 7em;
   padding: 0 2em;
-  text-align: center;
+  line-height: 1;
+  text-align: left;
 }
 
 .skip-navigation {

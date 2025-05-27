@@ -24,6 +24,17 @@ layout: default
 
 <main class="home" id="main" role="main" aria-label="Content">
 
+  <audio src="/assets/waderfal.mp3" loop autoplay></audio>
+
+  <style>
+    body {
+      background-image: url(/assets/images/bg_cavein_wip.png);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size:cover;
+    }
+  </style>
+
   <h1 class="content-title">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}

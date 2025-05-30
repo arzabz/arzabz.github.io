@@ -8,7 +8,7 @@ body {
 
 h1 {
   font-size: 2em;
-  margin: 0 auto;
+  margin: 0;
 }
 
 h2 {
@@ -22,6 +22,18 @@ h3 {
   font-style: italic;
   margin: 1.3333em auto;
   text-align: center;
+}
+
+@media (max-width: $on-phone){
+    h1 {
+      font-size: 1.5em;
+    }
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      font-size: 1.25em;
+    }
 }
 
 h4 {
@@ -48,11 +60,13 @@ h6 {
 h7 {
   font-size: .7em;
   opacity: 0.5;
-  font-style: italic;
-  margin: 2.5em auto;
-  text-align: center;
+  margin-top: auto;
 }
 
+mark {
+  background-color: $brand-color;
+  color: $muted-text-color;
+}
 
 em {
   font-style: italic;
@@ -100,9 +114,10 @@ hr {
 
 img {
   display: flex;
+  flex-wrap: wrap;
   max-width: 100%;
   height: auto;
-  margin: 2em auto;
+  margin-left: auto;
 }
 
 figure img {
@@ -114,7 +129,7 @@ figure iframe {
   margin: 2em auto 1em;
   width: 16em;
   height: 9em;
-  @media (min-width: $on-tablet) {
+  @media (max-width: $on-phone) {
     width: 25em;
     height: 14em;
   }
@@ -136,8 +151,13 @@ figcaption {
 .home {
   max-width: 18em;
   margin: 2em 1em;
-  padding: 2em 1em;
+  padding: 2em 0em;
   margin-left: auto;
+  @media (max-width: $on-phone) {
+    margin: 2em 1em;
+    margin-left: auto;
+    max-width: 8em;
+  }
 }
 
 .content-title {
@@ -160,11 +180,17 @@ figcaption {
 
 .site-credits {
   color: $muted-text-color;
+  display: flex;
+  flex-wrap: wrap;
   margin: 0 auto 2em;
-  margin-top: 7em;
+  margin-top: 8em;
+  text-align: left;
+  margin-right: auto;;
+  @media (max-width: $on-tablet) {
+    margin-top: 5em;
+  }
   padding: 0 2em;
   line-height: 1;
-  text-align: left;
 }
 
 .skip-navigation {

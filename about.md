@@ -27,8 +27,8 @@ colors: any colors that pair up well together, a bit unsaturated but vibrant (fa
 <audio src="/assets/waderfal2.mp3" loop autoplay></audio>
 
 <figure>
-  <h5>now listening to:</h5>
-  <iframe alt="takeshi abo - LEASE" src="https://www.youtube.com/embed/xsdWibwQdZE?autoplay=1&mute=1"></iframe>
+  <h2>now listening to:</h2>
+  <iframe alt="takeshi abo - LEASE" src="https://www.youtube.com/embed/xsdWibwQdZE?autoplay=1"></iframe>
 </figure>
 
 ---

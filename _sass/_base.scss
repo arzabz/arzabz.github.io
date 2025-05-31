@@ -2,26 +2,17 @@ body {
   background: $brand-color;
   color: $text-color;
   font-family: $font-family;
-  font-size: 1.3125em;
+  font-size: 1.3em;
   line-height: 1.5;
 }
 
-h1 {
+h1 { //title
   font-size: 2em;
-  margin: 0;
 }
 
-h2 {
-  font-size: 2em;
-  margin: 1em auto;
-  text-align: center;
-}
-
-h3 {
-  font-size: 1.5em;
-  font-style: italic;
-  margin: 1.3333em auto;
-  text-align: center;
+h2 { //title desc
+  color: $muted-text-color;
+  font-size: 1em;
 }
 
 @media (max-width: $on-phone){
@@ -29,51 +20,19 @@ h3 {
       font-size: 1.5em;
     }
     h2 {
-      font-size: 1.5em;
-    }
-    h3 {
-      font-size: 1.25em;
+      font-size: 0.7em;
     }
 }
 
-h4 {
-  font-size: 1.25em;
-  font-style: italic;
-  margin: 1.875em auto;
-  text-align: center;
-}
-
-h5 {
-  font-size: 1em;
-  font-style: italic;
-  margin: 1.5em auto;
-  text-align: center;
-}
-
-h6 {
-  font-size: .875em;
-  font-style: italic;
-  margin: 2.25em auto;
-  text-align: center;
-}
-
-h7 {
-  font-size: .7em;
+h3 { //credits
+  font-size: 0.7em;
   opacity: 0.5;
-  margin-top: auto;
 }
 
-mark {
-  background-color: $brand-color;
-  color: $muted-text-color;
-}
-
-em {
-  font-style: italic;
-}
-
-strong {
-  font-weight: bold;
+figure h2 {
+  margin: 0 2em;
+  margin-top: 1em;
+  text-align: center;
 }
 
 a {
@@ -84,7 +43,7 @@ a:focus {
   outline: 1px dashed $text-color;
 }
 
-blockquote {
+/*blockquote {
   margin: 2em auto;
   opacity: .8;
   > * {
@@ -96,43 +55,58 @@ blockquote.epigraph {
   font-style: italic;
 }
 
-small {
-  font-size: .75em;
-}
-
 p > cite {
   display: block;
   text-align: right;
-}
+}*/
 
-hr {
+/*hr {
   border: 0;
   height: 0;
   @include divider;
   margin: 4em 0;
-}
+}*/
 
-img {
+img { //icon credits
   display: flex;
-  flex-wrap: wrap;
   max-width: 100%;
-  height: auto;
   margin-left: auto;
-}
-
-figure img {
-  margin: 2em auto 1em;
-}
-
-figure iframe {
-  display: block;
-  margin: 2em auto 1em;
-  width: 16em;
-  height: 9em;
-  @media (max-width: $on-phone) {
-    width: 25em;
-    height: 14em;
+  padding-left: 4em;
+  @media (max-width: 360px) {
+    padding-left: 2em;
   }
+}
+
+figure img { //post images
+  margin: 2em auto 1em;
+  padding-left: 0;
+}
+
+figure iframe { //post images
+  display: block;
+  margin: 1em 0;
+  margin-bottom: 2em;
+  width: 100%;
+  height: 16em;
+  @media (max-width: $on-phone) {
+    height: 8em;
+  }
+}
+
+figure a {
+  display: flex;
+  position: absolute;;
+  margin-left: 5em;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom: auto;
+  width: 15em;
+  height: 15em;
+  outline: 0;
+}
+
+figure a:focus {
+  outline: none;
 }
 
 figcaption {
@@ -143,10 +117,10 @@ figcaption {
   opacity: .7;
 }
 
-.divided::after {
+/*.divided::after {
   content: "";
   @include divider;
-}
+}*/
 
 .home {
   max-width: 18em;
@@ -181,11 +155,10 @@ figcaption {
 .site-credits {
   color: $muted-text-color;
   display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto 2em;
   margin-top: 8em;
-  text-align: left;
-  margin-right: auto;;
+  margin-bottom: 2em;
+  margin-right: auto;
+  align-items: flex-end;
   @media (max-width: $on-tablet) {
     margin-top: 5em;
   }
@@ -193,7 +166,7 @@ figcaption {
   line-height: 1;
 }
 
-.skip-navigation {
+/*.skip-navigation {
   background: $brand-color;
   border: 1px dashed transparent;
   display: block;
@@ -210,4 +183,4 @@ figcaption {
     border-color: $text-color;
     margin-top: 0;
   }
-}
+}*/

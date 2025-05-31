@@ -12,7 +12,6 @@
 }
 
 .site-masthead h1 {
-  font-size: 2em;
   margin-top: 4em;
   @media (max-width: $on-tablet) {
     text-align: right;
@@ -21,14 +20,11 @@
 }
 
 .site-masthead h2 {
-  color: $muted-text-color;
-  font-size: 1em;
   margin: 0;
   padding: 0 2rem;
   @media (max-width: $on-tablet) {
     text-align: right;
     line-height: 1em;
-    font-size: 0.7em;
     margin-top: 3em;
     padding: 0;
   }

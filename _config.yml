@@ -16,7 +16,7 @@
 title: arz's notes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  an extra space for the mind.
+  an&NonBreakingSpace;extra space&NonBreakingSpace;for the&NonBreakingSpace;mind.
 
 basewebsite: "/hitchens" # the subpath of your site, e.g. /blog
 website: "https://arzabz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
